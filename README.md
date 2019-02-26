@@ -1,4 +1,3 @@
-![HitCount](http://hits.dwyl.io/aaronfagan/template-dotme.svg)
 # Template - DotMe
 A simple personal landing page in three colour schemes!
 - [View Demo](https://cdn.aaronfagan.ca/demo/web/dotme/)
