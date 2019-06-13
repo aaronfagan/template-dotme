@@ -5,17 +5,17 @@ A simple personal landing page in three colour schemes!
 
 ### Light
 <p align="center">
-  ![Light Theme](.demo/light.png)
+  <img src="https://github.com/aaronfagan/template-dotme/blob/master/.demo/dark.png?raw=true" alt="Light Theme"/>
 </p>
 
 ### Dark
 <p align="center">
-  <img src="https://github.com/aaronfagan/template-dotme/blob/master/.demo/dark.png?raw=true" alt="index.html"/>
+  <img src="https://github.com/aaronfagan/template-dotme/blob/master/.demo/dark.png?raw=true" alt="Dark Theme"/>
 </p>
 
 ### Glass
 <p align="center">
-  <img src="https://github.com/aaronfagan/template-dotme/blob/master/.demo/glass.png?raw=true" alt="index.html"/>
+  <img src="https://github.com/aaronfagan/template-dotme/blob/master/.demo/glass.png?raw=true" alt="Glass Theme"/>
 </p>
 
 # Contributors
