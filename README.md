@@ -5,7 +5,7 @@ A simple personal landing page in three colour schemes!
 
 ### Light
 <p align="center">
-  <img src="https://github.com/aaronfagan/template-dotme/blob/master/.demo/light.png?raw=true" alt="index.html"/>
+  ![Light Theme](.demo/light.png)
 </p>
 
 ### Dark
